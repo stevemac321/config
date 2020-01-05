@@ -1,0 +1,1 @@
+set substitute-path /build/glibc-OTsEL5/glibc-2.27 /usr/src/glibc-2.27
